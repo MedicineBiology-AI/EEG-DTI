@@ -5,20 +5,20 @@ Accurately identifying potential drug-target interactions (DTIs) is a key step i
 
 
 ## The environment of EEG-DTI
-  $ python 3.7.8 
-
-  $ Linux 
-
-  $ tensorflow                1.15.0 
+    $ python 3.7.8 
+    $ Linux 
+    $ tensorflow                1.15.0 
 
 ## Run the EEG-DTI model for DTI prediction
+### Download the data.
+The expermental data can be found in this [link](https://pan.baidu.com/s/1vLRG1M9vgRJn5PpCDVizkg). The password is 'bf85'.
 ### Luo dataset 
 
-$ python main_luo_all_networks.py
+    $ python main_luo_all_networks.py
 
 ### Yamanishi dataset 
 
-$ python main_yamanashi.py
+    $ python main_yamanashi.py
 
 
 ## Acknowledgments
