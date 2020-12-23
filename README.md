@@ -3,9 +3,9 @@ Accurately identifying potential drug-target interactions (DTIs) is a key step i
 
 
 ## The environment of EEG-DTI
-python 3.7.8 
-Linux 
-tensorflow                1.15.0 
+$ python 3.7.8 
+$ Linux 
+$ tensorflow                1.15.0 
 
 ## Run the EEG-DTI model for DTI prediction
 ### Luo dataset 
@@ -18,7 +18,7 @@ $ python main_yamanashi.py
 
 
 ## Acknowledgments
-1. We thank the SNAP Group open the source code of Decagon [link](https://github.com/mims-harvard/decagon).
+1. We thank the SNAP Group open the source code of Decagon at this [link](https://github.com/mims-harvard/decagon).
 
 2. We thank the Yunan Luo et al. open the dataset in this papaer "Yunan Luo, Xinbin Zhao, Jingtian Zhou, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen, and Jianyang Zeng. A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information. Nature communications, 8(1):1–13, 2017."
 
