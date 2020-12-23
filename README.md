@@ -20,8 +20,8 @@ The expermental data can be found in this [link](https://pan.baidu.com/s/1vLRG1M
 
 
 ## Acknowledgments
-1. We thank the SNAP Group open the source code of Decagon at this [link](https://github.com/mims-harvard/decagon). The Decagon help us to finish message passing of nodes on heterogeneous network.
+1. We relly thank the SNAP Group open the source code of Decagon at this [link](https://github.com/mims-harvard/decagon). The Decagon help us to finish message passing of nodes on heterogeneous network.
 
-2. We thank the Yunan Luo et al. open the dataset in this papaer "Yunan Luo, Xinbin Zhao, Jingtian Zhou, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen, and Jianyang Zeng. A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information. Nature communications, 8(1):1–13, 2017."
+2. We relly thank the Yunan Luo et al. open the dataset in this papaer "Yunan Luo, Xinbin Zhao, Jingtian Zhou, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen, and Jianyang Zeng. A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information. Nature communications, 8(1):1–13, 2017."
 
-3. We thank the Yoshihiro Yamanishi et al. open the dataset in this papaer "Yoshihiro Yamanishi, Michihiro Araki, Alex Gutteridge, Wataru Honda, and Minoru Kanehisa. Prediction of drug– target interaction networks from the integration of chemical and genomic spaces. Bioinformatics, 24(13):i232–i240, 2008."
+3. We relly thank the Yoshihiro Yamanishi et al. open the dataset in this papaer "Yoshihiro Yamanishi, Michihiro Araki, Alex Gutteridge, Wataru Honda, and Minoru Kanehisa. Prediction of drug– target interaction networks from the integration of chemical and genomic spaces. Bioinformatics, 24(13):i232–i240, 2008."
